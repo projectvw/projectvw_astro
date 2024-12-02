@@ -11,6 +11,8 @@ export interface Post {
   /**  */
   permalink: string;
 
+  url: string;
+
   /**  */
   publishDate: Date;
   /**  */

@@ -8,6 +8,7 @@ tags: [vw, beetle]
 dateFormatted: November 4, 2024
 title: 'The Hunt for My 1973 VW Super Beetle: A Quest Across States and Years'
 featured: true
+url: "findmyfirstcar"
 ---
 
 I've always been drawn to the character of the classic VW Beetle, and for years, I owned a unique 1973 VW Super Beetle that stood out wherever it went. It was more than just a car; it was a custom-built piece of my life. This Beetle, painted a strikingly dark blue that leaned towards purple, had a series of customizations that made it unlike any other on the road.

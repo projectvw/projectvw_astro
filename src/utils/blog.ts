@@ -3,18 +3,20 @@ import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import type { Post } from '~/types';
 import { APP_BLOG } from 'astrowind:config';
-import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE } from './permalinks';
+import { cleanSlug, trimSlash, BLOG_BASE, POST_PERMALINK_PATTERN, CATEGORY_BASE, TAG_BASE, getPermalink } from './permalinks';
 
 const generatePermalink = async ({
   id,
   slug,
   publishDate,
   category,
+  url,
 }: {
   id: string;
   slug: string;
   publishDate: Date;
   category: string | undefined;
+  url: string | undefined;
 }) => {
   const year = String(publishDate.getFullYear()).padStart(4, '0');
   const month = String(publishDate.getMonth() + 1).padStart(2, '0');
@@ -33,12 +35,15 @@ const generatePermalink = async ({
     .replace('%minute%', minute)
     .replace('%second%', second);
 
-  return permalink
-    .split('/')
-    .map((el) => trimSlash(el))
-    .filter((el) => !!el)
-    .join('/');
+  return url
+    ? getPermalink(url, 'post')
+    : permalink
+        .split('/')
+        .map((el) => trimSlash(el))
+        .filter((el) => !!el)
+        .join('/');
 };
+
 
 const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> => {
   const { id, slug: rawSlug = '', data } = post;
@@ -55,9 +60,10 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     author,
     draft = false,
     metadata = {},
+    url, // Add `url` from frontmatter
   } = data;
 
-  const slug = cleanSlug(rawSlug); // cleanSlug(rawSlug.split('/').pop());
+  const slug = cleanSlug(rawSlug);
   const publishDate = new Date(rawPublishDate);
   const updateDate = rawUpdateDate ? new Date(rawUpdateDate) : undefined;
 
@@ -76,7 +82,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
   return {
     id: id,
     slug: slug,
-    permalink: await generatePermalink({ id, slug, publishDate, category: category?.slug }),
+    permalink: await generatePermalink({ id, slug, publishDate, category: category?.slug, url }), // Pass `url`
 
     publishDate: publishDate,
     updateDate: updateDate,
@@ -94,8 +100,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     metadata,
 
     Content: Content,
-    // or 'content' in case you consume from API
-
+    url: url,
     readingTime: remarkPluginFrontmatter?.readingTime,
   };
 };

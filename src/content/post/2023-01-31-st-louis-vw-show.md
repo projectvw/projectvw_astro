@@ -8,6 +8,7 @@ tags: [vw, superbeetle, show]
 dateFormatted: February 28, 2023
 title: 1973 VW Super Beetle 133 2543 365
 featured: false
+url: "/vw-chassis-number-133-2543-365"
 ---
 
 Details on chassis number 133 2543 365, pulled from the [JBugs VIN Decoder](https://www.jbugs.com/category/vw-vin.html)

@@ -7,6 +7,8 @@ tags: [vw, superbeetle]
 dateFormatted: January 11, 2021
 title: 1973 Volkswagen Super Beetle Red
 featured: false
+updateDate: 2024-12-02T00:03:10Z
+url: "/1973-volkswagen-super-beetle-red"
 ---
 
 Before the car was blue (painted in the summer of 1998 in Sedalia, Missouri), it was red.

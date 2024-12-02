@@ -8,6 +8,7 @@ tags: [vw, beetle]
 dateFormatted: May 8, 2024
 title: VW Junkyard in Pennsylvania
 featured: true
+url: "/vwjunkyard"
 ---
 
 Check out this VW Graveyard out in Pennsylvania

@@ -8,6 +8,8 @@ dateFormatted: June 29, 2021
 keywords: 'vw, beetle, super beetle, find my car, first car, graduation'
 title: 1973 Volkswagen Super Beetle Driving to Graduation
 featured: false
+updateDate: 2024-05-16T08:07:43+00:00
+url: "/driving-to-graduation"
 ---
 
 Video of the car as I headed off to my high school graduation, June 1995..

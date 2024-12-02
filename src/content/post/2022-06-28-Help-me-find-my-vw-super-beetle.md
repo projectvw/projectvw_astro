@@ -8,6 +8,8 @@ dateFormatted: June 28, 2022
 keywords: 'vw, beetle, super beetle, find my car, first car, superbeetle, volkswagen'
 title: Help me find my VW Super Beetle
 featured: false
+updateDate: 2024-05-16T08:15:43+00:00
+url: "/find-my-vw"
 ---
 
 So I've spent the last 15 years looking for this car, haven't had much luck.

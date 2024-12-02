@@ -6,6 +6,9 @@ image: ~/assets/images/pside.jpg
 tags: [vw, superbeetle]
 dateFormatted: May 9, 2017
 title: 'Have you seen my 1973 VW Super Beetle? VIN# 1332543365'
+url: "/have-you-seen-my-1973-vw-super-beetle-vin-1332543365"
+# metadata:
+#  canonical: 
 ---
 
 {% picture RED5.jpg --alt 1973 VW Super Beetle  %}

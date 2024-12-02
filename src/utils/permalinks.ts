@@ -39,8 +39,8 @@ export const getCanonical = (path = ''): string | URL => {
 };
 
 /** */
-export const getPermalink = (slug = '', type = 'page'): string => {
-  let permalink: string;
+export const getPermalink = (slug = '', type = 'page', url?: string): string => {
+  let permalink;
 
   if (
     slug.startsWith('https://') ||
@@ -74,7 +74,8 @@ export const getPermalink = (slug = '', type = 'page'): string => {
       break;
 
     case 'post':
-      permalink = createPath(trimSlash(slug));
+      // Use `url` if provided, otherwise fallback to slug
+      permalink = url ? createPath(trimSlash(url)) : createPath(trimSlash(slug));
       break;
 
     case 'page':

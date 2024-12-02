@@ -6,6 +6,7 @@ image: ~/assets/images/VWFenders.jpg
 tags: [vw, superbeetle]
 dateFormatted: October 10, 2017
 title: 1973 VW Super Beetle Wide Fenders
+url: "/1973-vw-super-beetle-wide-fenders"
 ---
 
 When we were redoing our 1973 Super Beetle in the summer of 1998, I wanted to go with wider fenders. We ordered fiberglass fenders from a company called Innovations in Fiberglass. I don&#39;t know if they are still in business or not.
