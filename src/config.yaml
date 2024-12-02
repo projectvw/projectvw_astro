@@ -1,7 +1,7 @@
 site:
   name: ProjectVW
-  site: 'https://www.projectvw.com'
-  base: '/'
+  site: 'https://projectvw.github.io/'
+  base: '/projectvw_astro/'
   trailingSlash: false
 
   googleSiteVerificationId:
