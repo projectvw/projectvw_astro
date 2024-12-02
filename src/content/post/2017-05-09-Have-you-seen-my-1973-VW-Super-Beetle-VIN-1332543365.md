@@ -1,9 +1,9 @@
 ---
-description: "I am on the hunt for my first car, a 1973 VW Super Beetle, last known to have travelled to Fort Drum in New York."
+description: 'I am on the hunt for my first car, a 1973 VW Super Beetle, last known to have travelled to Fort Drum in New York.'
 author: chris
 publishDate: 2017-05-09T00:19:07Z
 image: ~/assets/images/pside.jpg
-tags: [ vw, superbeetle ]
+tags: [vw, superbeetle]
 dateFormatted: May 9, 2017
 title: 'Have you seen my 1973 VW Super Beetle? VIN# 1332543365'
 ---

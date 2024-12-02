@@ -1,11 +1,11 @@
 ---
-description: "Video of me heading off in my 73 Super Beetle to high school graduation June 1995"
+description: 'Video of me heading off in my 73 Super Beetle to high school graduation June 1995'
 author: chris
 publishDate: 2021-06-29T21:03:10Z
 image: ~/assets/images/GradVideo.JPG
-tags: [ vw, superbeetle ]
+tags: [vw, superbeetle]
 dateFormatted: June 29, 2021
-keywords: "vw, beetle, super beetle, find my car, first car, graduation"
+keywords: 'vw, beetle, super beetle, find my car, first car, graduation'
 title: 1973 Volkswagen Super Beetle Driving to Graduation
 featured: false
 ---

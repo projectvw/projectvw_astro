@@ -6,16 +6,14 @@ export const headerData = {
       text: 'Blog',
       href: getBlogPermalink(),
     },
-    { 
-        text: 'About us',
-        href: getPermalink('/about'),
+    {
+      text: 'About',
+      href: getPermalink('/about'),
     },
     {
       text: 'Contact',
       href: getPermalink('/contact'),
     },
-    
-
   ],
   // actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };

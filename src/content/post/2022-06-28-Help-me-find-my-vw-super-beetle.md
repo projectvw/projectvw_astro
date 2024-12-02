@@ -1,11 +1,11 @@
 ---
-description: "Some details about my 1973 Super Beetle search and trying to find the car"
+description: 'Some details about my 1973 Super Beetle search and trying to find the car'
 author: chris
 publishDate: 2022-06-28T09:03:10Z
 image: ~/assets/images/2022/fs-ext1.jpg
-tags: [ vw, superbeetle ]
+tags: [vw, superbeetle]
 dateFormatted: June 28, 2022
-keywords: "vw, beetle, super beetle, find my car, first car, superbeetle, volkswagen"
+keywords: 'vw, beetle, super beetle, find my car, first car, superbeetle, volkswagen'
 title: Help me find my VW Super Beetle
 featured: false
 ---
@@ -14,7 +14,7 @@ So I've spent the last 15 years looking for this car, haven't had much luck.
 
 I sold the car in 2001 on Ebay, a family out of Alton, Illinois purchased it. I was able to reach out to the father of that family around 10 years later, he told me the car went to Fort Drum in New York when one of his sons went that way.
 
-That's the last I've been able to find anything about the car. 
+That's the last I've been able to find anything about the car.
 
 Can you help me find it? [Contact Chris Hammond](https://www.chrishammond.com/Contact)
 
