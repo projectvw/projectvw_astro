@@ -2,7 +2,7 @@
 description: 'I am on the hunt for my first car, a 1973 VW Super Beetle, last known to have travelled to Fort Drum in New York.'
 author: chris
 publishDate: 2017-05-09T00:19:07Z
-image: ~/assets/images/pside.jpg
+image: ~/assets/images/PSIDE_upscaled.jpg
 tags: [vw, superbeetle]
 dateFormatted: May 9, 2017
 title: 'Have you seen my 1973 VW Super Beetle? VIN# 1332543365'
@@ -11,7 +11,13 @@ url: "/have-you-seen-my-1973-vw-super-beetle-vin-1332543365"
 #  canonical: 
 ---
 
-{% picture RED5.jpg --alt 1973 VW Super Beetle  %}
+<Image 
+  src="/src/assets/images/RED5_upscaled.jpg" 
+  alt="1973 VW Super Beetle" 
+  width={800} 
+  height={600} 
+/>
+
 When I was 17, and my brother was 16, my parents bought us a car. It was a 1973 VW Super Beetle (Vin/Chassis # 1332543365). Honestly, I didn't want it. My brother wanted a bug, but I was the one who went with dad to test drive it, and I was the one who fell in love with the car and drove it during my JR/SR years of high school in Northern California, then hauled it to Rolla, Missouri for college.
 
 I loved that car. In the summer of 1998, my father and I redid the suspension on the car and sent it to Bryant Motors in Sedalia, Missouri to get new wider/fiberglass fenders and a new paint job.
@@ -22,7 +28,12 @@ Over the next year or two, we replaced the motor with a 1776 built by Al out in 
 
 I got out of school, started working, and the Super Beetle got parked in my parents' garage in St. Charles, MO.
 
-{% picture PSIDE.jpg --alt 1973 VW Super Beetle VIN 1332543365%}
+<Image 
+  src="/src/assets/images/PSIDE_upscaled.jpg" 
+  alt="1973 VW Super Beetle VIN 1332543365" 
+  width={800} 
+  height={600} 
+/>
 
 In early 2001, it was time for my parents to move to South Carolina, and I was going to stay in Missouri. I couldn't really keep two cars, so we sold the Super Beetle on Ebay. It sold to a family in Alton, Illinois, not far from where we were. They had two young boys (if memory serves me correctly) and the car was for them, fitting as that is how I came across the car.
 

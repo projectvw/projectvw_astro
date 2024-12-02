@@ -3,7 +3,7 @@ keywords: 'vw, beetle, super beetle, 1973, 133 2543 365'
 description: 'Some details around super beetles and their various options'
 author: chris
 publishDate: 2023-02-28T23:00:00Z
-image: ~/assets/images/2023/133-2543-365.jpg
+image: ~/assets/images/2023/133-2543-365_upscaled.jpg
 tags: [vw, superbeetle, show]
 dateFormatted: February 28, 2023
 title: 1973 VW Super Beetle 133 2543 365
