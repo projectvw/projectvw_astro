@@ -21,10 +21,10 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Company',
+      title: 'ProjectVW',
       links: [
-        { text: 'About', href: '#' },
-        { text: 'Blog', href: '#' },
+        { text: 'About', href: '/about' },
+        { text: 'Blog', href: '/blog' },
       ],
     },
   ],
