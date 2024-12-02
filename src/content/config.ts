@@ -57,13 +57,25 @@ const postCollection = defineCollection({
 
     category: z.string().optional(),
     tags: z.array(z.string()).optional(),
-    author: z.string().optional(),
+    author: z.string(), // Link to `authors` collection by ID
 
     metadata: metadataDefinition(),
     url: z.string().optional(),
   }),
 });
 
+const authorsCollection = defineCollection({
+  schema: z.object({
+    name: z.string(),
+    bio: z.string().optional(),
+    url: z.string().optional(),
+    email: z.string().optional(),
+    twitter: z.string().optional(),
+    bluesky: z.string().optional(),
+  }),
+});
+
 export const collections = {
   post: postCollection,
+  authors: authorsCollection, // Add the authors collection here
 };

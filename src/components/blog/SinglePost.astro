@@ -8,6 +8,9 @@ import SocialShare from '~/components/common/SocialShare.astro';
 import { getPermalink } from '~/utils/permalinks';
 import { getFormattedDate } from '~/utils/utils';
 
+import BlogPostingJSONLD from "~/components/blog/BlogJsonLd.astro";
+import { getCollection } from 'astro:content';
+
 import type { Post } from '~/types';
 
 export interface Props {
@@ -16,7 +19,45 @@ export interface Props {
 }
 
 const { post, url } = Astro.props;
+
+// Fetch authors from the collection
+const authors = await getCollection('authors');
+
+// Ensure `authorId` is a string slug
+const authorSlug = typeof post.author === 'string' ? post.author : null;
+
+// Find the author details or use fallback
+const author = authors.find((a) => a.slug === authorSlug)?.data || {
+  name: 'Unknown Author',
+  bio: 'No bio available',
+  url: '#',
+};
+
+console.log("Single Post Author Data:", author);
+console.log("Single Post Frontmatter data:", {
+  title: post.title,
+  description: post.description,
+  publishDate: post.publishDate,
+  updateDate: post.updateDate,
+  tags: post.tags,
+  authorId: post.author,
+  url,
+  image: post.image,
+});
+
 ---
+<BlogPostingJSONLD 
+  slot="head" 
+  title={post.title}
+  description={post.excerpt || post.description}
+  publishDate={post.publishDate}
+  updateDate={post.updateDate}
+  tags={post.tags}
+  authorId={post.author}
+  url={url}
+  image={post.image}
+/>
+
 
 <section class="py-8 sm:py-16 lg:py-20 mx-auto">
   <article>
@@ -30,11 +71,11 @@ const { post, url } = Astro.props;
           <Icon name="tabler:clock" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
           <time datetime={String(post.publishDate)} class="inline-block">{getFormattedDate(post.publishDate)}</time>
           {
-            post.author && (
+            author && (
               <>
                 {' '}
                 · <Icon name="tabler:user" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
-                <span class="inline-block">{post.author}</span>
+                <a href={author.url} class="hover:underline">{author.name}</a>
               </>
             )
           }
