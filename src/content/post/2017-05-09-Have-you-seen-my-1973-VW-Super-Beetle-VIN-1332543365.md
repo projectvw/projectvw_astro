@@ -43,6 +43,6 @@ Digging through those emails, I was able to track down the name of the family wh
 
 Since that time, I've scoured Craigslist, Ebay, and Google Image search in hopes of finding my 1973 VW Super Beetle again. I have been unsuccessful, but I hold on to hope that one day I will find my first car and buy it back.
 
-If you have any leads on the car, please let me know. [You can fill out the Contact Form here](https://www.chrishammond.com/Contact).
+If you have any leads on the car, please let me know. [You can fill out the Contact Form here](/contact).
 
 -Chris Hammond, Wildwood, Missouri
