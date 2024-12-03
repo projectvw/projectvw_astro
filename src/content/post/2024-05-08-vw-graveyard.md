@@ -1,6 +1,6 @@
 ---
 keywords: 'vw, bus, beetle, bug, junkyard'
-description: 'A video from a VW Junkyard in Pennsylvania, I went through this video looking for my old car'
+excerpt: 'A video from a VW Junkyard in Pennsylvania, I went through this video looking for my old car'
 author: chris
 publishDate: 2024-05-08T23:00:00Z
 image: ~/assets/images/2024/309autosalvage.jpg

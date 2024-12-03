@@ -1,5 +1,5 @@
 ---
-description: 'Some details about my 1973 Super Beetle search and trying to find the car'
+excerpt: 'Some details about my 1973 Super Beetle search and trying to find the car'
 author: chris
 publishDate: 2022-06-28T09:03:10Z
 image: ~/assets/images/2022/fs-ext1_upscaled.jpg

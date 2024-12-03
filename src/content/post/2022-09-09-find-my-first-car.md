@@ -1,6 +1,6 @@
 ---
 keywords: 'vw, beetle, super beetle, find my car, first car, superbeetle, volkswagen'
-description: 'Some details about my 1973 Super Beetle to help me find my first car!'
+excerpt: 'Some details about my 1973 Super Beetle to help me find my first car!'
 author: chris
 publishDate: 2022-09-09T09:00:00Z
 image: ~/assets/images/2022/frntlowsid_upscaled.jpg

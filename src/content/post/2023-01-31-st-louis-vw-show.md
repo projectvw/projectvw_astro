@@ -1,6 +1,6 @@
 ---
 keywords: 'vw, beetle, super beetle, 1973, 133 2543 365'
-description: 'Some details around super beetles and their various options'
+excerpt: 'Some details around super beetles and their various options'
 author: chris
 publishDate: 2023-02-28T23:00:00Z
 image: ~/assets/images/2023/133-2543-365_upscaled.jpg

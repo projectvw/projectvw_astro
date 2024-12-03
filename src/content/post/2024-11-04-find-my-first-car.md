@@ -1,12 +1,13 @@
 ---
-keywords: 'vw,  beetle, bug, superbeetle, super beetle'
-description: 'Searching for my custom 1973 VW Super Beetle: sold in 2001, last seen near Fort Drum, NY. Dark blue, custom fenders & taillights—any leads are welcome! #VWBeetle'
+title: 'The Hunt for My 1973 VW Super Beetle: A Quest Across States and Years'
+description: "Searching for my custom 1973 VW Super Beetle: sold in 2001, last seen near Fort Drum, NY. Dark blue, custom fenders & taillights—any leads are welcome! #VWBeetle"
+excerpt: "Searching for my custom 1973 VW Super Beetle: sold in 2001, last seen near Fort Drum, NY. Dark blue, custom fenders & taillights—any leads are welcome! #VWBeetle"
 author: chris
 publishDate: 2024-11-04T08:00:00Z
 image: ~/assets/images/2024/1973VWSuperBeetle-1_upscaled.jpg
 tags: [vw, beetle]
 dateFormatted: November 4, 2024
-title: 'The Hunt for My 1973 VW Super Beetle: A Quest Across States and Years'
+keywords: 'vw,  beetle, bug, superbeetle, super beetle'
 featured: true
 url: findmyfirstcar
 ---

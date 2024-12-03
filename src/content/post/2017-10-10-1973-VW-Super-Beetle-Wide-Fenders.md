@@ -1,11 +1,12 @@
 ---
-description: 'A blog post with photos of my 73 Super Beetle with wider fiberglass fenders'
+title: 1973 VW Super Beetle Wide Fenders
+excerpt: 'A blog post with photos of my 73 Super Beetle with wider fiberglass fenders'
 author: chris
 publishDate: 2017-10-10T23:03:10Z
 image: ~/assets/images/VWFenders_upscaled.jpg
 tags: [vw, superbeetle]
 dateFormatted: October 10, 2017
-title: 1973 VW Super Beetle Wide Fenders
+
 url: "/1973-vw-super-beetle-wide-fenders"
 ---
 

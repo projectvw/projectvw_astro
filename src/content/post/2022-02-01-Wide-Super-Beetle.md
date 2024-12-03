@@ -1,6 +1,6 @@
 ---
 title: 1973 Volkswagen Wide Super Beetle
-description: 'Some information on the 2 inch and 3 inch wider fenders that were added to our 1973 VW Superbeetle'
+excerpt: 'Some information on the 2 inch and 3 inch wider fenders that were added to our 1973 VW Superbeetle'
 author: chris
 publishDate: 2022-02-01T09:03:10Z
 image: ~/assets/images/2022/Wide-Super-Beetle/Wide-Super-Beetle-2_upscaled.jpg

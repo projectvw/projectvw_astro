@@ -1,6 +1,6 @@
 ---
 keywords: 'vw, beetle, mid-engine, mk7, golf, gti, doyle, motorworks'
-description: 'A simple blog post on a MK7 powered VW Beetle'
+excerpt: 'A simple blog post on a MK7 powered VW Beetle'
 author: chris
 publishDate: 2023-08-26T08:00:00Z
 image: ~/assets/images/2023/redub.jpg

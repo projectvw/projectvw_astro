@@ -1,5 +1,5 @@
 ---
-description: 'Photos of my 1973 Super Beetle back when it was red! We purchased this car in 1993 or 1994 in Northern California'
+excerpt: 'Photos of my 1973 Super Beetle back when it was red! We purchased this car in 1993 or 1994 in Northern California'
 author: chris
 publishDate: 2021-01-11T00:03:10Z
 image: ~/assets/images/red/RedSuperBeetle-9.jpg
