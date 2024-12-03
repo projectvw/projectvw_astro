@@ -12,7 +12,7 @@ url: "/have-you-seen-my-1973-vw-super-beetle-vin-1332543365"
 ---
 
 <Image 
-  src="/src/assets/images/RED5_upscaled.jpg" 
+  src="/assets/images/RED5_upscaled.jpg" 
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
@@ -29,7 +29,7 @@ Over the next year or two, we replaced the motor with a 1776 built by Al out in 
 I got out of school, started working, and the Super Beetle got parked in my parents' garage in St. Charles, MO.
 
 <Image 
-  src="/src/assets/images/PSIDE_upscaled.jpg" 
+  src="/assets/images/PSIDE_upscaled.jpg" 
   alt="1973 VW Super Beetle VIN 1332543365" 
   width={800} 
   height={600} 

@@ -24,67 +24,67 @@ If you look closely at the hubcaps, you can see I painted them. I completely for
 I am still looking for this car if you happen to see it, let me know! Chassis Number: **1332543365**
 
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-1.jpg"  
+  src="/assets/images/red/RedSuperBeetle-1.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-2.jpg"  
+  src="/assets/images/red/RedSuperBeetle-2.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-3.jpg"  
+  src="/assets/images/red/RedSuperBeetle-3.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-4.jpg"  
+  src="/assets/images/red/RedSuperBeetle-4.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-5.jpg"  
+  src="/assets/images/red/RedSuperBeetle-5.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-6.jpg"  
+  src="/assets/images/red/RedSuperBeetle-6.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-7.jpg"  
+  src="/assets/images/red/RedSuperBeetle-7.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-8.jpg"  
+  src="/assets/images/red/RedSuperBeetle-8.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-9.jpg"  
+  src="/assets/images/red/RedSuperBeetle-9.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-10.jpg"  
+  src="/assets/images/red/RedSuperBeetle-10.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
 />
 <Image 
-  src="/src/assets/images/red/RedSuperBeetle-11.jpg"  
+  src="/assets/images/red/RedSuperBeetle-11.jpg"  
   alt="1973 VW Super Beetle" 
   width={800} 
   height={600} 
