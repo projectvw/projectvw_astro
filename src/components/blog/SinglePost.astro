@@ -98,6 +98,14 @@ console.log("Single Post Frontmatter data:", {
               </>
             )
           }
+          {
+            post.updateDate && (
+              <>
+              <br />
+              <small>Last Updated <time datetime={String(post.publishDate)} class="inline-block">{getFormattedDate(post.updateDate)}</time></small>
+              </>
+            )
+          }
         </p>
       </div>
 
