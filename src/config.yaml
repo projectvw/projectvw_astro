@@ -11,7 +11,7 @@ metadata:
   title:
     default: ProjectVW
     template: '%s — ProjectVW'
-  description: "\U0001F680 Help me find my first car! A 1973 VW SuperBeetle, last known to be near Fort Drum New York."
+  description: "Help me find my first car! A 1973 VW SuperBeetle, last known to be near Fort Drum New York."
   robots:
     index: true
     follow: true
