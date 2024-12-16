@@ -1,0 +1,48 @@
+ .gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  padding: 16px;
+  list-style: none;
+}
+
+.gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+
+.pswp__custom-caption {
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 8px 12px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  font-size: 1.4em;
+  z-index: 10;
+  border-radius: 5px;
+  max-width: 90%; /* Ensures it doesn't extend beyond the viewport */
+  word-wrap: break-word;
+  line-height: 1.5;
+}
+
+
+@media (max-width: 600px) {
+  .pswp__custom-caption {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+}
