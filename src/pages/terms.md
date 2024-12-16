@@ -32,7 +32,7 @@ These Terms and Conditions govern the use of ProjectVW.com and establish the rig
 
 If You do not agree with any part of these Terms, You may not access the Service. You must be at least 18 years old to use this Service.
 
-Your use of the Service is also governed by Our [Privacy Policy](https://www.ProjectVW.com/privacy-policy), which explains how We collect, use, and disclose personal information.
+Your use of the Service is also governed by Our [Privacy Policy](https://www.ProjectVW.com/privacy), which explains how We collect, use, and disclose personal information.
 
 ## Links to Other Websites
 

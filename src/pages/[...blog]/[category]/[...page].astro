@@ -13,10 +13,13 @@ export const getStaticPaths = (async ({ paginate }) => {
   return await getStaticPathsBlogCategory({ paginate });
 }) satisfies GetStaticPaths;
 
+console.log('GetStaticPaths',getStaticPaths);
+
 type Props = InferGetStaticPropsType<typeof getStaticPaths> & { category: Record<string, string> };
 
+console.log('test');
 const { page, category } = Astro.props as Props;
-
+console.log('Page:', page);
 const currentPage = page.currentPage ?? 1;
 
 const metadata = {
