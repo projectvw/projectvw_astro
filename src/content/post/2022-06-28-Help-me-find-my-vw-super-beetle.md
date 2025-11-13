@@ -18,7 +18,7 @@ I sold the car in 2001 on Ebay, a family out of Alton, Illinois purchased it. I 
 
 That's the last I've been able to find anything about the car.
 
-Can you help me find it? [Contact Chris Hammond](https://www.chrishammond.com/Contact)
+Can you help me find it? 
 
 Chassis Number: 1332543365
 

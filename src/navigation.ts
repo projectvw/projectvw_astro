@@ -40,6 +40,6 @@ export const footerData = {
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
   ],
   footNote: `
-    Made by <a class="text-blue-600 underline dark:text-muted" href="https://www.chrishammond.com/"> Chris Hammond</a> · All rights reserved.
+    Made by <a class="text-blue-600 underline dark:text-muted" href="https://www.projectvw.com/"> ProjectVW</a> · All rights reserved.
   `,
 };

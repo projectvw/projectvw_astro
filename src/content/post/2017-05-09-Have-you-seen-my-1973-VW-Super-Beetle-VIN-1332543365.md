@@ -45,4 +45,4 @@ Since that time, I've scoured Craigslist, Ebay, and Google Image search in hopes
 
 If you have any leads on the car, please let me know. [You can fill out the Contact Form here](/contact).
 
--Chris Hammond, Wildwood, Missouri
+

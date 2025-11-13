@@ -18,6 +18,6 @@ I'll pay $100 for someone who WAS previously an owner of the car (verified) that
 
 Chassis Number: 1332543365
 
-Can you help me find it? [Contact Chris Hammond](/contact)
+Can you help me find it? [Contact Us](/contact)
 
 Chassis Number: 1332543365
