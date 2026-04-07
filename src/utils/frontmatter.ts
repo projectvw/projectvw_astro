@@ -46,3 +46,11 @@ export const lazyImagesRehypePlugin: RehypePlugin = () => {
     });
   };
 };
+
+export const preventRemoteImageOptimizationPlugin: RehypePlugin = () => {
+  return function (_tree, file) {
+    if (file.data.astro) {
+      file.data.astro.remoteImagePaths = [];
+    }
+  };
+};
