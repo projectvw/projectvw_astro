@@ -16,6 +16,10 @@ This afternoon I learned that tornados in Effingham Illinois last night destroye
 
 Here are some photos of the time my brother and I went to MAM for a VW show May 22, 1999:
 
+Text from my original website in 1999:
+
+> The first showing of the Real Source Bugfest was a great show. The entry was free, and just for registering you were given a free T-Shirt, as well as $5 in free food, and don't forget the 10% off all catalog sales at the show. Since the show was on the Mid America Designs grounds you could visit the museum, and pick up your product orders that afternoon! There were more than 100 Air-cooled VWs as well as some 20+ New Beetles and Water Cooled VWs. The cars were not grouped in categories, below are pictures of many of the winners as well as other entries.  
+
 ## Photo Gallery
 
 ![Mid America Motorworks VW show photo 1](/assets/images/2026/june/1.jpg)
