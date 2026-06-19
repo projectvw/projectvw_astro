@@ -3,7 +3,7 @@ title: 'Mid America Motorworks Tornado Loss'
 excerpt: "Last night at the hockey rink the news was showing a tornado near Effingham, Illinois, it was amazing seeing the damage live."
 author: chris
 publishDate: 2026-06-18T20:00:00Z
-image: ~/assets/images/2026/june/mine1.jpg
+image: ~/assets/images/2026/june/mine4.jpg
 tags: [vw, beetle, "1999", show]
 dateFormatted: May 22, 2025
 keywords: 'super beetle, vw, mid america motorworks, tornado'
