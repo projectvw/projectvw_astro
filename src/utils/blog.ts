@@ -109,7 +109,7 @@ const load = async function (): Promise<Array<Post>> {
   return results;
 };
 
-let _posts: Array<Post>;
+let _posts: Array<Post> | undefined;
 
 export const isBlogEnabled = APP_BLOG.isEnabled;
 export const isRelatedPostsEnabled = APP_BLOG.isRelatedPostsEnabled;
@@ -126,7 +126,7 @@ export const blogTagRobots = APP_BLOG.tag.robots;
 export const blogPostsPerPage = APP_BLOG?.postsPerPage;
 
 export const fetchPosts = async (): Promise<Array<Post>> => {
-  if (!_posts) {
+  if (!_posts?.length) {
     _posts = await load();
   }
   return _posts;
