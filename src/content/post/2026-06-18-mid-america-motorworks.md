@@ -5,7 +5,7 @@ author: chris
 publishDate: 2026-06-18T20:00:00Z
 image: ~/assets/images/2026/june/mine4.jpg
 tags: [vw, beetle, "1999", show]
-dateFormatted: May 22, 2025
+dateFormatted: June 16, 2026
 keywords: 'super beetle, vw, mid america motorworks, tornado'
 featured: true
 url: mid-america-motorworks
