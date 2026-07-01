@@ -17,3 +17,4 @@ It was the 90s, I can't say I made the right decision, but you can see the wheel
 I don't know that I would choose those wheels again today, but I do have fond memories of them. As a 21 year old, these were the first time I picked out a set of wheels for a car. I honestly have purchased too many sets of wheels to count since then, I definitely put more thought into the wheels for the Super Beetle than I have for any wheel set since. 
 
 Side note: that guitar pictured with the wheel, is hanging in my office today. 
+
