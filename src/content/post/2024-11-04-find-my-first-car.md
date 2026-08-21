@@ -1,7 +1,7 @@
 ---
 title: 'The Hunt for My 1973 VW Super Beetle: A Quest Across States and Years'
-description: "Searching for my custom 1973 VW Super Beetle: sold in 2001, last seen near Fort Drum, NY. Dark blue, custom fenders & taillights—any leads are welcome! #VWBeetle"
-excerpt: "Searching for my custom 1973 VW Super Beetle: sold in 2001, last seen near Fort Drum, NY. Dark blue, custom fenders & taillights—any leads are welcome! #VWBeetle"
+description: "Searching for my custom 1973 VW Super Beetle: sold in 2001, last known to have gone to Fort Drum, NY. Dark blue, custom fenders & taillights—any leads are welcome! #VWBeetle"
+excerpt: "Searching for my custom 1973 VW Super Beetle: sold in 2001, last known to have gone to Fort Drum, NY. Dark blue, custom fenders & taillights—any leads are welcome! #VWBeetle"
 author: chris
 publishDate: 2024-11-04T08:00:00Z
 updateDate: 2024-12-03T12:00:00Z
